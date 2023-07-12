@@ -2,6 +2,8 @@
 
 A guide to duel boot your Microsoft Surface 4
 
+![](assets/ubuntu-surface4.png)
+
 Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
 
 
